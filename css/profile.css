@@ -420,7 +420,7 @@ background: radial-gradient(#0cbcd3, #13dfc3);
         display: none;
     }
 }
-@media screen and (max-height: 863px){
+@media screen and (max-width: 863px){
      .home__img{
         height: 50%;
         width: 224px;
