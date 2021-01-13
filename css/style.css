@@ -1470,4 +1470,7 @@ footer .arrow-up {
     right: 0px; }
     footer .back-top span {
       display: none; } }
+.max-widht{
+    max-width: 80%!important;
+}
 
